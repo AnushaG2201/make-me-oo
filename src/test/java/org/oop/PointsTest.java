@@ -58,4 +58,9 @@ public class PointsTest {
         Assertions.assertEquals(Math.PI / 2, Points.direction(origin, point2));
         Assertions.assertEquals(Math.PI / 2, Points.direction(origin, point1));
     }
+
 }
+
+
+
+
